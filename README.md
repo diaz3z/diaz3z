@@ -7,11 +7,11 @@
 
 <p align="left"> <a href="https://twitter.com/diaz3z" target="blank"><img src="https://img.shields.io/twitter/follow/diaz3z?logo=twitter&style=for-the-badge" alt="diaz3z" /></a> </p>
 
-- 🔭 I’m currently working on **Traffic Sign Detection**
+- 🔭 I’m currently working on **Chess Move Prediction**
 
-- 👯 I’m looking to collaborate on **my video editing project. And to shoot some videos and edit them.**
+- 👯 I’m looking to collaborate on **my project to gain some industry level insights**
 
-- 🤝 I’m looking for help with **Some deep learning AR concepts.**
+- 🤝 I’m looking for help with **Some deep learning Computer Vision concepts.**
 
 - 📫 How to reach me **mdzaid786291@gmail.com**
 
