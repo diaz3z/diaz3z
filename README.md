@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Mohammad Zaid</h1>
-<h3 align="center">A passionate Machine Learning expert from India</h3>
+<h3 align="center">A passionate Machine Learning Computer Vision enthusiast</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=diaz3z&label=Profile%20views&color=0e75b6&style=flat" alt="diaz3z" /> </p>
 
