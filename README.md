@@ -28,7 +28,7 @@
   
 - 👯 I’m looking to collaborate on **real-time vision systems & model optimization**
   
-- 🤝 Actively seeking **full-time/intern roles in Computer Vision / AI**
+- 🤝 Actively seeking **full-time roles in Computer Vision / AI / GenAI / Machine Learning**
   
 - 📫 Reach me at **mdzaid786291@gmail.com**
 
@@ -65,15 +65,16 @@
 <img align="right" width=300px height=300px alt="side_sticker" src="https://media.giphy.com/media/TEnXkcsHrP4YedChhA/giphy.gif" />
 
 ### 🧠 Recent Projects:
-- 🔹 **Analog Pressure Gauge Monitoring (Keypoint Detection)**  
-- 🔹 **Forklift Proximity Safety System**  
-- 🔹 **Glass Bottle Inspection & Biscuit Dimension Analysis**  
-- 🔹 **ChessSense AI – Real-Time Chess Vision System**
+🔹 **Analog Pressure Gauge Monitoring (Keypoint Detection)**  
+🔹 **Forklift Proximity Safety System**  
+🔹 **Glass Bottle Inspection & Biscuit Dimension Analysis**  
+🔹 **ChessSense AI – Real-Time Chess Vision System**
 
 <p>
 <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=diaz3z&show_icons=true&locale=en&layout=compact" />
 </p>
 
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=apoorvtyagi&layout=compact&text_color=daf7dc&bg_color=151515&hide=css,html,php)](https://github.com/diaz3z/github-readme-stats)
 <p>
 <img align="center" src="https://github-readme-stats.vercel.app/api?username=diaz3z&show_icons=true&locale=en" />
 </p>
@@ -81,3 +82,5 @@
 <p>
 <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=diaz3z&" />
 </p>
+
+[![My Skills](https://skillicons.dev/icons?i=python,machinelearning,css,computervision)](https://skillicons.dev)
