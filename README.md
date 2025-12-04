@@ -7,7 +7,7 @@
 </p>
 
 <p align="left"> 
-  <a href="https://github.com/ryo-ma/github-profile-trophy">
+  [![trophy](https://github-profile-trophy.vercel.app/?username=ryo-ma)](https://github.com/diaz3z/github-profile-trophy)
     <img src="https://github-profile-trophy.vercel.app/?username=diaz3z" alt="diaz3z" />
   </a> 
 </p>
