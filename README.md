@@ -30,7 +30,7 @@
   
 - 🤝 Actively seeking **full-time roles in Computer Vision / AI / GenAI / Machine Learning**
   
-- 📫 Reach me at **mdzaid786291@gmail.com**
+- 📫 Reach me at **mdzaid.dev@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
