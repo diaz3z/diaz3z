@@ -74,7 +74,24 @@
 <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=diaz3z&show_icons=true&locale=en&layout=compact" />
 </p>
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=apoorvtyagi&layout=compact&text_color=daf7dc&bg_color=151515&hide=css,html,php)](https://github.com/diaz3z/github-readme-stats)
+---
+
+## 📊 GitHub Stats
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=diaz3z&show_icons=true&theme=tokyonight&hide_border=true" />
+</p>
+
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=diaz3z&theme=tokyonight&hide_border=true" />
+</p>
+
+<p align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=diaz3z&theme=tokyo-night&hide_border=true&area=true" />
+</p>
+
+---
+
 <p>
 <img align="center" src="https://github-readme-stats.vercel.app/api?username=diaz3z&show_icons=true&locale=en" />
 </p>
