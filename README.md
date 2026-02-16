@@ -70,10 +70,6 @@
 🔹 **Glass Bottle Inspection & Biscuit Dimension Analysis**  
 🔹 **ChessSense AI – Real-Time Chess Vision System**
 
-<p>
-<img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=diaz3z&show_icons=true&locale=en&layout=compact" />
-</p>
-
 ---
 
 ## 📊 GitHub Stats
@@ -91,13 +87,5 @@
 </p>
 
 ---
-
-<p>
-<img align="center" src="https://github-readme-stats.vercel.app/api?username=diaz3z&show_icons=true&locale=en" />
-</p>
-
-<p>
-<img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=diaz3z&" />
-</p>
 
 [![My Skills](https://skillicons.dev/icons?i=python,machinelearning,css,computervision)](https://skillicons.dev)
