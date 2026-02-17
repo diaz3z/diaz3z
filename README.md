@@ -88,4 +88,8 @@
 
 ---
 
-[![My Skills](https://skillicons.dev/icons?i=python,machinelearning,css,computervision)](https://skillicons.dev)
+<p align="center">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=git,kubernetes,docker,flask,aws,github,py,pytorch,raspberrypi,tensorflow," />
+  </a>
+</p>
