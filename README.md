@@ -31,7 +31,7 @@
        alt="E-Mail" 
        width="25" 
        height="25" />
-  Reach me at <strong>mdzaid.dev@gmail.com</strong>
+   Reach me at <strong>mdzaid.dev@gmail.com</strong>
 
 
 <h3 align="left">Connect with me:</h3>
