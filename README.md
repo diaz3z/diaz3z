@@ -26,8 +26,13 @@
 - I’m looking to collaborate on **real-time vision systems & model optimization**
   
 - Actively seeking **full-time roles in Computer Vision / AI / GenAI / Machine Learning**
-  
-- 📫 Reach me at **mdzaid.dev@gmail.com**
+
+- <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/E-Mail.png" 
+       alt="E-Mail" 
+       width="25" 
+       height="25" />
+  Reach me at <strong>mdzaid.dev@gmail.com</strong>
+
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
