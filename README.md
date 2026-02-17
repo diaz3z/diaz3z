@@ -79,7 +79,7 @@
 </p>
 
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=diaz3z&theme=tokyonight&hide_border=true" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?username=diaz3z&theme=tokyonight&hide_border=true" />
 </p>
 
 <p align="center">
