@@ -75,12 +75,6 @@
 ## 📊 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=diaz3z&show_icons=true&theme=tokyonight&hide_border=true" />
-</p>
-
-![Zaid's GitHub stats](https://github-readme-stats.vercel.app/api?username=diaz3z&show_icons=true&theme=radical)
-
-<p align="center">
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=diaz3z&theme=tokyonight&hide_border=true" />
 </p>
 
