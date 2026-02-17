@@ -1,9 +1,26 @@
 ![MasterHead](https://i.redd.it/bpxxqqvps4h91.gif)
-<p align='left'>
+
+<!-- <p align='left'>
 <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Hand%20gestures/Hand%20with%20Fingers%20Splayed%20Light%20Skin%20Tone.png" alt="Hand with Fingers Splayed Light Skin Tone" width="25" height="25" />
 </p>
 
-<h1 align="center">Hi 👋, I'm Mohammad Zaid</h1>
+<h1 align="center">Hi 👋, I'm Mohammad Zaid</h1> -->
+<p align="left">
+  <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Hand%20gestures/Hand%20with%20Fingers%20Splayed%20Light%20Skin%20Tone.png" 
+       alt="Hand with Fingers Splayed Light Skin Tone" 
+       width="25" 
+       height="25" />
+</p>
+
+<h1 align="center">
+  Hi 
+  <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Hand%20gestures/Hand%20with%20Fingers%20Splayed%20Light%20Skin%20Tone.png" 
+       alt="Hi Five" 
+       width="35" 
+       height="35" />
+  , I'm Mohammad Zaid
+</h1>
+
 <h3 align="center">Computer Vision & GenAI Engineer | Machine Vision | Real-Time AI Systems</h3>
 
 <p align="left"> 
