@@ -57,9 +57,6 @@
 <a href="https://www.python.org" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" width="40" height="40"/></a> 
 <a href="https://pytorch.org/" target="_blank"><img src="https://www.vectorlogo.zone/logos/pytorch/pytorch-icon.svg" width="40" height="40"/></a> 
 <a href="https://www.tensorflow.org" target="_blank"><img src="https://www.vectorlogo.zone/logos/tensorflow/tensorflow-icon.svg" width="40" height="40"/></a> 
-<img src="https://upload.wikimedia.org/wikipedia/commons/1/10/TensorRT_logo.png" width="40" height="40"/>
-<img src="https://avatars.githubusercontent.com/u/61469344?s=200&v=4" width="40" height="40" title="ONNX Runtime"/>
-<img src="https://upload.wikimedia.org/wikipedia/commons/3/3f/Docker_logo.svg" width="50" height="40" title="Docker"/>
 </p>
 
 <img align="right" width=300px height=300px alt="side_sticker" src="https://media.giphy.com/media/TEnXkcsHrP4YedChhA/giphy.gif" />
@@ -87,5 +84,6 @@
 <p align="center">
   <a href="https://skillicons.dev">
     <img src="https://skillicons.dev/icons?i=git,kubernetes,docker,flask,aws,github,py,pytorch,raspberrypi,tensorflow," />
+    <a href="https://opencv.org/" target="_blank"><img src="https://www.vectorlogo.zone/logos/opencv/opencv-icon.svg" width="40" height="40"/></a> 
   </a>
 </p>
