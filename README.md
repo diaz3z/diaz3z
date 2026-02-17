@@ -60,11 +60,3 @@
 <p align="center">
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=diaz3z&theme=tokyo-night&hide_border=true&area=true" />
 </p>
-
----
-
-<p align="center">
-  <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=git,kubernetes,docker,flask,aws,github,py,pytorch,raspberrypi,tensorflow,opencv" />
-  </a>
-</p>
