@@ -139,7 +139,7 @@
   <a href="https://www.linkedin.com/in/mohammad-zaid-3z/" target="_blank"><img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" height="30" width="40"/></a>
   <a href="https://x.com/diaz3z" target="_blank"><img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" height="30" width="40"/></a>
   <a href="https://leetcode.com/u/diaz3z/" target="_blank"><img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" height="30" width="40"/></a>
-  <a href="https://leetcode.com/u/diaz3z/" target="_blank"><img src="https://raw.githubusercontent.com/diaz3z/diaz3z/blob/master/email-svgrepo-com.svg" height="30" width="40"/></a>
+
   <!-- <a href="https://instagram.com/imbhuwan_" target="_blank"><img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" height="30" width="40"/></a> -->
   <!-- <a href="https://discord.com/users/1027218773280825378" target="_blank"><img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" height="30" width="40"/></a> -->
   <!-- <a href="#"><img src="https://cdn.worldvectorlogo.com/logos/telegram-1.svg" height="30" width="40" alt="Telegram"/></a> -->
