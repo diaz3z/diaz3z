@@ -70,19 +70,19 @@
   <img src="https://media3.giphy.com/media/ln7z2eWriiQAllfVcn/200w.webp" alt="JavaScript" width="90"/>
 
   <!-- Frameworks & Tools -->
-  <img src="https://media.giphy.com/media/wMGYl0PHrdazsC5HGQ/giphy.gif" alt="Express.js" width="90"/>
-  <img src="https://i.giphy.com/media/eNAsjO55tPbgaor7ma/200w.webp" alt="React.js" width="90"/>
-  <img src="https://media.giphy.com/media/Sr8xDpMwVKOHUWDVRD/giphy.gif" alt="Bootstrap" width="90"/>
+<!--  <img src="https://media.giphy.com/media/wMGYl0PHrdazsC5HGQ/giphy.gif" alt="Express.js" width="90"/> -->
+ <!-- <img src="https://i.giphy.com/media/eNAsjO55tPbgaor7ma/200w.webp" alt="React.js" width="90"/> -->
+ <!-- <img src="https://media.giphy.com/media/Sr8xDpMwVKOHUWDVRD/giphy.gif" alt="Bootstrap" width="90"/> -->
   <img src="https://i.giphy.com/media/KzJkzjggfGN5Py6nkT/200.webp" alt="GitHub" width="90"/>
   <img src="https://i.giphy.com/media/IdyAQJVN2kVPNUrojM/200.webp" alt="VS Code" width="90"/>
   <img src="https://media.giphy.com/media/W71QxkQgCDM1WJYdFz/giphy.gif" alt="MySQL" width="90"/>
-  <img src="https://user-images.githubusercontent.com/43292234/179796795-66b680c9-89db-4199-9fa7-336bc4aecd7b.gif" alt="Node.js" width="90"/>
-  <img src="https://media.giphy.com/media/Ri2TUcKlaOcaDBxFpY/giphy.gif" alt="Firebase" width="100"/>
-  <img src="https://cdn.worldvectorlogo.com/logos/redux.svg" alt="Redux" width="80"/>
+  <!--<img src="https://user-images.githubusercontent.com/43292234/179796795-66b680c9-89db-4199-9fa7-336bc4aecd7b.gif" alt="Node.js" width="90"/>  -->
+  <!--<img src="https://media.giphy.com/media/Ri2TUcKlaOcaDBxFpY/giphy.gif" alt="Firebase" width="100"/>  -->
+ <!-- <img src="https://cdn.worldvectorlogo.com/logos/redux.svg" alt="Redux" width="80"/> -->
   <img src="https://media.giphy.com/media/kH1DBkPNyZPOk0BxrM/giphy.gif" alt="Git" width="110"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/sass/sass-original.svg" alt="SASS" width="80"/>
+ <!-- <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/sass/sass-original.svg" alt="SASS" width="80"/>  -->
   <img src="https://media.giphy.com/media/UWt0rhp21JgLwoeFQP/giphy.gif" alt="Sublime Text" width="80"/>
-  <img src="https://media.giphy.com/media/tAjb5pyCEBhEb8jWxC/giphy.gif" alt="MongoDB" width="90"/>
+ <!-- <img src="https://media.giphy.com/media/tAjb5pyCEBhEb8jWxC/giphy.gif" alt="MongoDB" width="90"/> -->
   <img src="https://github.com/LakshaySK106/LakshaySK106/blob/main/the_json.png?raw=true" alt="JSON" width="90"/>
   <img src="https://media.giphy.com/media/Vc64hRodlWNoj3sMxu/giphy.gif" alt="Ubuntu" width="90"/>
   <img src="https://media.giphy.com/media/cYU6YcPE5YlJxh6otp/giphy.gif" alt="PyCharm" width="90"/>
@@ -94,7 +94,7 @@
 </p>
 
 
-
+<!--
 ### 🪶 GSSoC 2024 Badges
 
 <p align="center">
@@ -115,9 +115,9 @@
 <p align="center">
   <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 </p>
+-->
 
-
-
+<!--
 ### 🎧 Currently Listening To
 
 <p align="center">
@@ -129,7 +129,7 @@
 <p align="center">
   <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 </p>
-
+-->
 
 
 
